@@ -25,12 +25,6 @@ We propose two interconnected platforms to harness India’s IT talent for natio
 - Fullscreen mode
 - Interconnected platforms
 
-
-## 🚀Demo
-
-Insert gif or link to demo
-
-
 ## 🚀Installation
 
 Install my-project with npm
